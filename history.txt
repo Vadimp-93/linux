@@ -1,0 +1,6 @@
+    1  git --vesion
+    2  pwd
+    3  git clone https://github.com/Vadimp-93/linux.git
+    4  ls
+    5  cd linux/
+    6  history >> history.txt
