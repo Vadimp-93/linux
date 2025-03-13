@@ -1,0 +1,7 @@
+#!/bin/bash
+
+read -p "Enter number and text: " num text
+
+for x in num ; do
+	echo "$text"
+done
